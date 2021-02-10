@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=rectangular_prism
+comment1.params=
+comment1.target=rectangular_prism()
+comment2.params=l1\ w1\ h1
+comment2.target=rectangular_prism(int,\ int,\ int)
+comment3.params=
+comment3.target=int\ getVolume()
+comment4.params=
+comment4.target=long\ getSA()
+comment5.params=
+comment5.target=void\ add()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

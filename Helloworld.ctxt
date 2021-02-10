@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Helloworld
+comment1.params=num1\ num2
+comment1.target=double\ pythag(double,\ double)
+comment1.text=\ static\ String\ F1\ (String\ chaman)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ R,U,T,V,A;\r\n\ \ \ \ \ \ \ \ System.out.println("in\ F1"\ +chaman);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ chaman\ \=\ "JIG";\r\n\ \ \ \ \ \ \ \ return\ chaman;\r\n\ \ \ \ }\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
